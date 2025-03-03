@@ -14,6 +14,6 @@ WiFi Access Points: I design and deploy WiFi networks to deliver efficient wirel
 
 <ins>About Me</ins>
 
-I cover 
+I cover Farsley, Garforth, Guiseley, Horsforth, Otley, Pudsey, Rothwell, Wetherby, and Yeadon.
 
 With years of hands-on experience in the telecommunications field, I combine technical expertise with practical know-how to deliver top-quality service. Whether you're looking to upgrade your systems or troubleshoot connectivity issues, I’m here to help.
